@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Homework8</string>
+    <string name="add_user_desc">add user</string>
+    <string name="last_name">Last Name:</string>
+    <string name="first_name">First Name:</string>
+    <string name="e_mail">E-mail:</string>
+    <string name="delete_user_button">delete user</string>
+    <string name="edit_user_button">Edit User Button</string>
+    <string name="type_user_s_first_name">Type User\'s First Name</string>
+    <string name="type_user_s_last_name">Type User\'s Last Name</string>
+    <string name="type_user_s_email">Type User\'s Email</string>
+    <string name="save_user">Save User</string>
+</resources>
